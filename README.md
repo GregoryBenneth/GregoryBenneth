@@ -7,6 +7,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![.Net](https://camo.githubusercontent.com/ff765790707ecba41b57071db549f75fbf0eeffa5ac6996ff077083863b8bea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://camo.githubusercontent.com/ff765790707ecba41b57071db549f75fbf0eeffa5ac6996ff077083863b8bea4/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d2e4e455426636f6c6f723d353132424434266c6f676f3d2e4e4554266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <!-- [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) -->
 
