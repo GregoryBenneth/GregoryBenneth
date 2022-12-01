@@ -23,5 +23,5 @@
   
   
   ```tsx
-console.log('Hello World!)
+console.log('Whats up Dev!)
 ```
