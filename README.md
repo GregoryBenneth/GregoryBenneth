@@ -26,8 +26,11 @@
 console.log('Salve Familia X !)
 ```
 #
-<img align="right" alt="GIF" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
+  <div align="center" title="Gitf">
+    <img align="right" alt="GIF" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
+  </div>
 #
+
 #
 <!-- Visitors Count --> 
 <div align="center" title="Visitors Counter">
