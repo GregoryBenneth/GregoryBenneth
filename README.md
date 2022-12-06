@@ -20,16 +20,18 @@
 
 ## Buy me a coffee
 [![Buy me a coffe](https://camo.githubusercontent.com/7ac2d2ae05be4eaa63932fe83681794a4b44773d4fa3ecb3168b8e632652176f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537461726275636b7326636f6c6f723d303036323431266c6f676f3d537461726275636b73266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.buymeacoffee.com/gregory.benneth)
+
+<div align="center" title="Gitf">
+    <img align="right" alt="GIF" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
+  </div>
   
   
   ```tsx
 console.log('Salve Familia X !)
 ```
 #
-  <div align="center" title="Gitf">
-    <img align="right" alt="GIF" src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif" />
-  </div>
-#
+  
+
 
 #
 <!-- Visitors Count --> 
