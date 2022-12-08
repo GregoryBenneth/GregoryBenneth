@@ -26,7 +26,7 @@
 <img align="right" alt="GIF" src="https://gifer.com/3odR" />
 
   ```tsx
-console.log('Salve Familia X !)
+console.log('Salve Familia !)
 ```
 #
   
