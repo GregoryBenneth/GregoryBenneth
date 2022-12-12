@@ -24,7 +24,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.imgur.com/gYX5kdj.gif" />
+<img align="right" alt="GIF" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
 
 
   ```tsx
