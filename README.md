@@ -24,7 +24,7 @@
 
 
 
-<img align="right" alt="GIF" src="https://i.imgur.com/KeTPxlk.gifv" />
+<img align="right" alt="GIF" src="https://i.imgur.com/gYX5kdj.gif" />
 
 
   ```tsx
