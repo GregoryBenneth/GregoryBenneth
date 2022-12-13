@@ -44,6 +44,8 @@ console.log('Salve Familia X  !)
   
 </div>
 
+<img align="right" alt="GIF" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
+
 #
 
 <img width=100% title="#GregoryBenneth" alt="#GregoryBenneth" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Gregory_Benneth&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
