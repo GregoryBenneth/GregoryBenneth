@@ -43,7 +43,6 @@ console.log('Salve Familia X  !)
   
 </div>
 
-<img align="right" alt="GIF" src="https://media.tenor.com/JJ_is357rXYAAAAd/spike-monkey-typing.gif" />
 
 #
 
