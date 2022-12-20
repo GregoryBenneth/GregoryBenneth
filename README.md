@@ -27,7 +27,7 @@
 
 
   ```tsx
-console.log('Salve Familia X  !)
+console.log('Salve Familia   !)
 ```
 #
   
