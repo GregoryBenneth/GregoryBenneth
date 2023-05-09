@@ -32,7 +32,7 @@
 
 
   ```tsx
-console.log('Salve Familia   !)
+console.log('Salve Familia!)
 ```
 #
   
