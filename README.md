@@ -14,16 +14,7 @@
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
   
 
-<!-- [![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/) -->
-  ```tsx
-Shell Script
-```
-(https://camo.githubusercontent.com/539a184961e9ab46a914b3a57718cd52f9a122ffb33a0bcaaa92484add20ba72/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d4d7953514c26636f6c6f723d343437394131266c6f676f3d4d7953514c266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.mysql.com/)
 
-  ```tsx
-Discord
-```
-(https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://discord.com/)
 
 ## Learning on
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
