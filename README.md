@@ -16,20 +16,9 @@
 ## Learning on
 ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)
 
-## Buy me a coffee
-  ```tsx
-Buy me a coffee
-```
-![Coded(https://camo.githubusercontent.com/7ac2d2ae05be4eaa63932fe83681794a4b44773d4fa3ecb3168b8e632652176f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537461726275636b7326636f6c6f723d303036323431266c6f676f3d537461726275636b73266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.buymeacoffee.com/gregory.benneth)
 
 
 
-
-
-  ```tsx
-console.log('Salve Familia!)
-```
-#
   
 
 
@@ -52,24 +41,22 @@ Nos meus projetos, utilizo uma variedade de tecnologias modernas para garantir a
 - **React**
 - **Next.js**
 - **Tailwind CSS**
-- **Redux**
 - **React Native**
 
 ## Backend
 - **Node.js**
-- **Sanity CMS**
+- **Elysia**
+- **Drizzle**
+- **EasyPanel**
 
 ## Ferramentas e Bibliotecas
 - **Hyperfetch** (para requests)
 - **Shadcnui** (biblioteca de UI)
-- **@radix-ui/react-toggle** (componentes Toggle)
 
-## Outras Tecnologias
-- **Python** (para manipulação e extração de dados)
-- **Excel** (para manipulação de dados)
+
 
 ## Exemplos de Projetos
-### [Festus](https://github.com/seu_usuario/festus)
+### [Festus](https://github.com/gregorybenneth/festus)
 Um aplicativo para venda de ingressos e compra de alimentos dentro do evento. Tecnologias utilizadas:
 - **React Native**
 - **Typescript**
