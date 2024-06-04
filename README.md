@@ -20,7 +20,7 @@
   ```tsx
 Buy me a coffee
 ```
-![Coded](https://camo.githubusercontent.com/7ac2d2ae05be4eaa63932fe83681794a4b44773d4fa3ecb3168b8e632652176f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537461726275636b7326636f6c6f723d303036323431266c6f676f3d537461726275636b73266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.buymeacoffee.com/gregory.benneth)
+![Coded(https://camo.githubusercontent.com/7ac2d2ae05be4eaa63932fe83681794a4b44773d4fa3ecb3168b8e632652176f/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d537461726275636b7326636f6c6f723d303036323431266c6f676f3d537461726275636b73266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.buymeacoffee.com/gregory.benneth)
 
 
 
@@ -40,11 +40,55 @@ console.log('Salve Familia!)
   **Visitors Count**
   
   ![VisitorCount](https://profile-counter.glitch.me/{GregoryBenneth}/count.svg)
+
   
 </div>
+
+# Tecnologias Utilizadas
+
+Nos meus projetos, utilizo uma variedade de tecnologias modernas para garantir a eficiência, escalabilidade e qualidade do desenvolvimento. Abaixo estão algumas das principais tecnologias que costumo utilizar:
+
+## Frontend
+- **React**
+- **Next.js**
+- **Tailwind CSS**
+- **Redux**
+- **React Native**
+
+## Backend
+- **Node.js**
+- **Sanity CMS**
+
+## Ferramentas e Bibliotecas
+- **Hyperfetch** (para requests)
+- **Shadcnui** (biblioteca de UI)
+- **@radix-ui/react-toggle** (componentes Toggle)
+
+## Outras Tecnologias
+- **Python** (para manipulação e extração de dados)
+- **Excel** (para manipulação de dados)
+
+## Exemplos de Projetos
+### [Festus](https://github.com/seu_usuario/festus)
+Um aplicativo para venda de ingressos e compra de alimentos dentro do evento. Tecnologias utilizadas:
+- **React Native**
+- **Typescript**
+- **Redux**
+- **Sanity CMS**
+
+### Projeto de Horários de Funcionamento
+Um componente React que exibe horários de funcionamento com base em dados recebidos de uma API. Tecnologias utilizadas:
+- **React**
+- **Hyperfetch**
+- **@radix-ui/react-toggle**
+
+Sinta-se à vontade para explorar os repositórios acima para ver exemplos de como utilizo essas tecnologias nos meus projetos.
+
 
 
 #
 
 <img width=100% title="#GregoryBenneth" alt="#GregoryBenneth" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Gregory_Benneth&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+
+
  
