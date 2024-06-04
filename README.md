@@ -42,6 +42,9 @@ Nos meus projetos, utilizo uma variedade de tecnologias modernas para garantir a
 - **Next.js**
 - **Tailwind CSS**
 - **React Native**
+- **Flutter**
+- **Dart**
+- **TypeScript**
 
 ## Backend
 - **Node.js**
@@ -55,19 +58,7 @@ Nos meus projetos, utilizo uma variedade de tecnologias modernas para garantir a
 
 
 
-## Exemplos de Projetos
-### [Festus](https://github.com/gregorybenneth/festus)
-Um aplicativo para venda de ingressos e compra de alimentos dentro do evento. Tecnologias utilizadas:
-- **React Native**
-- **Typescript**
-- **Redux**
-- **Sanity CMS**
-
-### Projeto de Horários de Funcionamento
-Um componente React que exibe horários de funcionamento com base em dados recebidos de uma API. Tecnologias utilizadas:
-- **React**
-- **Hyperfetch**
-- **@radix-ui/react-toggle**
+##
 
 Sinta-se à vontade para explorar os repositórios acima para ver exemplos de como utilizo essas tecnologias nos meus projetos.
 
