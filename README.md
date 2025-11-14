@@ -52,7 +52,7 @@ Nos meus projetos, utilizo uma variedade de tecnologias modernas para garantir a
 - **EasyPanel**
 
 ## Ferramentas e Bibliotecas
-- **Hyperfetch** (para requests)
+- **Tanstack** (para requests)
 - **Shadcnui** (biblioteca de UI)
 
 
