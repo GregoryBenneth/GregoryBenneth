@@ -21,16 +21,7 @@
   
 
 
-#
-<!-- Visitors Count --> 
-<div align="center" title="Visitors Counter">
-  
-  **Visitors Count**
-  
-  ![VisitorCount](https://profile-counter.glitch.me/{GregoryBenneth}/count.svg)
 
-  
-</div>
 
 # Tecnologias Utilizadas
 
